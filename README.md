@@ -52,7 +52,7 @@ CVForte is created with the NextJS web framework and follows its project structu
 
 ### Method 1: npm
 
-1. Download the repo `git clone https://github.com/xitanggg/cv-forte.git`
+1. Download the repo `git clone https://github.com/b-arohi/cv-forte.git`
 2. Change the directory `cd cv-forte`
 3. Install the dependency `npm install`
 4. Start a development server `npm run dev`
